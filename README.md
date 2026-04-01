@@ -75,7 +75,7 @@ The project was built incrementally over **4 milestones** during the Infosys Spr
 | **Embeddings** | sentence-transformers, FAISS (faiss-cpu) |
 | **Knowledge Graph** | spaCy (en_core_web_sm), NetworkX, PyVis |
 | **Readability** | textstat |
-| **Document Parsing** | PyPDF2, BeautifulSoup4 |
+| **Document Parsing** | PyPDF2, BeautifulSoup4 , Pdfplumber |
 | **Database** | SQLite3 |
 | **Visualization** | Plotly, Matplotlib, WordCloud |
 | **AI API** | Anthropic Claude API |
