@@ -1,4 +1,5 @@
-# 🏛️ Infosys_Springboard_PolicyNav_Public-\_Policy_Navigation_Using_AI
+# 🏛️ Infosys_Springboard_Internship
+# PolicyNav_Public-\_Policy_Navigation_Using_AI
 
 > **Infosys Springboard Internship | Final Project**  
 > An end-to-end intelligent policy analysis system featuring secure authentication, NLP-powered Q&A, multi-language support, knowledge graphs, and rich admin/user dashboards — deployed via Streamlit + Docker.
