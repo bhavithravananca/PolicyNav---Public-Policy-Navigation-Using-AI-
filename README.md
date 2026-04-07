@@ -1,6 +1,18 @@
-# 🏛️ Infosys_Springboard_Internship
-# PolicyNav_Public-\_Policy_Navigation_Using_AI
+<!-- Banner / Background Style -->
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Project-PolicyNav-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Domain-Public%20Policy-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Built%20With-Python%20%7C%20AI%20%7C%20NLP-success?style=for-the-badge"/>
+</p>
 
+<h1 align="center"> PolicyNav AI</h1>
+<p align="center">
+AI-Powered Public Policy Navigation & Analysis System  
+<br/>
+Transforming complex policy documents into simple, actionable insights 🚀
+</p>
+
+---
 > **Infosys Springboard Internship | Final Project**  
 > An end-to-end intelligent policy analysis system featuring secure authentication, NLP-powered Q&A, multi-language support, knowledge graphs, and rich admin/user dashboards — deployed via Streamlit + Docker.
 
